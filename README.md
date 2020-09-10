@@ -1,4 +1,15 @@
-This is a simple mathematical programme written in Python 3.
-Free to use for personla uses.
+DESCRIPTION:
+	-Programme returning bizz, fuzz & fuzzbiz as per conditional statements.
+	-Often asked in interviews.
+	-Simple use of if & else (conditional statements)
 
-Thank You.
+TECHNOLOGY & TOOLS USED:
+	-Python3
+	-git
+	-gitHub
+	-VSCode
+
+
+CONTACT:
+For any feedback & suggestions,
+mail me: orneto11@gmail.com
